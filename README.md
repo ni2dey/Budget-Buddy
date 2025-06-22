@@ -1,3 +1,28 @@
-# Budget Buddy
-Budget Buddy is an Income and Expense Tracker web application that I designed to streamline financial management using Python, Streamlit, and Plotly. The app allows users to easily upload their financial data into the platform which is then stored in Excel files, which are then processed to combine income and expense records. Streamlit provides an intuitive user interface, enabling users to interact with their data seamlessly. The tracker utilizes Plotly for dynamic and interactive visualizations, such as charts and graphs that illustrate income and expense distributions, trends over time, and comparisons of different categories. This combination of features offers users a comprehensive and user-friendly tool for managing and analyzing their finances, making it easier to gain insights and track financial performance.
+💰 Budget Buddy
+Budget Buddy is a simple and interactive personal finance app built using Python and Streamlit. It helps users manage their finances by taking in salary and expenses as inputs and visualizing the data using Plotly charts.
+
+✨ Features
+🧾 Input and track your salary and expenses
+
+📊 Visual representation of financial data using Plotly
+
+🖥️ Clean and responsive GUI built with Streamlit
+
+📈 Instantly see how your budget is distributed
+
+🛠️ Tech Stack
+Python
+
+Streamlit (for GUI)
+
+Plotly (for data visualization)
+
+Pandas (for data handling)
+
+🔍 Use Cases
+Budget planning
+
+Expense tracking
+
+Financial overview dashboard
 
